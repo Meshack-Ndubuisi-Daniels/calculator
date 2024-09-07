@@ -1,0 +1,11 @@
+body
+{background-color: rgb(25, 25, 27); font-family: arial;}
+
+.answer
+{color: white; font-size: 30px;}
+
+.numbers
+{width: 60px; color: white; background-color:rgb(98, 110, 136); height: 60px; border-radius: 30px; border: none; font-size: 24px;}
+
+.signs
+{width: 60px; color: white; background-color: rgb(212, 181, 5); height: 60px; border-radius: 30px; border: none; font-size: 24px;}
